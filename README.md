@@ -1,0 +1,1 @@
+## DEMO APP for Purescript Crash Course
